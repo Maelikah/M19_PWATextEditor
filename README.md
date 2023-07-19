@@ -95,10 +95,11 @@ The purpose of this repository is to build a text editor that runs in the browse
 </br>
 
 1. Open integrated terminal
-2. Run `npm run start:dev` to initiate the app
-3. Click on the generated local port link
-3. For offline usage, click on the `install` button
-4. Alternatively, you can visit the deployed app in [Heroku](https://devdocs.io/javascript/)
+2. Run `npm run build` to create the dist folder with the app
+3. Run `npm run start:dev` to initiate the app
+4. Click on the generated local port link
+5. For offline usage, click on the `install` button
+6. Alternatively, you can visit the deployed app in [Heroku](https://devdocs.io/javascript/)
 
 
 </br>
