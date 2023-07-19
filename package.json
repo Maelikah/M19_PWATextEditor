@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "M19_PWATextEditor",
   "version": "1.0.0",
-  "description": "",
+  "description": "</br>",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
@@ -11,15 +11,23 @@
     "install": "",
     "client": ""
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maelikah/M19_PWATextEditor.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maelikah/M19_PWATextEditor/issues"
+  },
+  "homepage": "https://github.com/Maelikah/M19_PWATextEditor#readme",
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.88.2"
   }
 }
