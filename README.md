@@ -99,7 +99,7 @@ The purpose of this repository is to build a text editor that runs in the browse
 3. Run `npm run start:dev` to initiate the app
 4. Click on the generated local port link
 5. For offline usage, click on the `install` button
-6. Alternatively, you can visit the deployed app in [Heroku](https://devdocs.io/javascript/)
+6. Alternatively, you can visit the deployed app in [Heroku](https://guarded-gorge-47076-21f34308c618.herokuapp.com/)
 
 
 </br>
@@ -113,7 +113,7 @@ https://github.com/Maelikah/M19_PWATextEditor
 
 Heroku Page:
 
-https://.herokuapp.com/
+https://guarded-gorge-47076-21f34308c618.herokuapp.com/
 
 
 </br>
