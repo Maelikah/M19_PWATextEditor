@@ -148,6 +148,7 @@ https://.herokuapp.com/
 - https://nodejs.org/en/docs
 - https://web.dev/indexeddb/
 - https://www.npmjs.com/package/idb
+- https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
 
 
 </br>
